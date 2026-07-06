@@ -2,6 +2,8 @@
 
 ## Overview
 
+<img width="1913" height="984" alt="image" src="https://github.com/user-attachments/assets/54d4bbda-185b-4ff1-b009-6cb15e68af9a" />
+
 This project demonstrates multitasking on the ESP32 using FreeRTOS.
 
 Multiple tasks execute concurrently while communicating through a FreeRTOS queue. The system simulates a temperature monitoring application with task scheduling, inter-task communication, and runtime statistics monitoring.
